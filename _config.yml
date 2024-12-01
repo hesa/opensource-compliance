@@ -1,4 +1,5 @@
-theme: minima
 title: Open Source Compliance
 author: Henrik Sandklef
 description: All about Open Source Compliance 
+headline: null
+theme: jekyll-theme-leap-day
