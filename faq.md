@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: FAQ
 permalink: /faq/
 ---
@@ -7,3 +7,5 @@ permalink: /faq/
 # Licenses
 
 # Tooling
+
+[back](./)
