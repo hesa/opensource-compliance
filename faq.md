@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Open Source Compliance - FAQ
-permalink: /faq
+permalink: /faq/
 ---
 
 # Licenses
