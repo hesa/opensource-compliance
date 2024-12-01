@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FAQ
+title: Open Source Compliance - FAQ
 permalink: /faq/
 ---
 
@@ -8,4 +8,4 @@ permalink: /faq/
 
 # Tooling
 
-[back](./)
+[back](/)
