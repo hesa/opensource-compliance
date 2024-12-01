@@ -2,8 +2,8 @@
 title: Open Source Compliance
 ---
 
-# index
+# About
 
-Test: [faq](faq)
+# Links
 
-[FAQ](./faq.html).
+[FAQ](/faq)
