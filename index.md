@@ -7,3 +7,5 @@ title: Open Source Compliance
 # Links
 
 [FAQ](/faq)
+[Tooling and resources](/tooling-resources/)
+[Guides](/guides/)
