@@ -4,22 +4,24 @@ title: Open Source Compliance - Tooling
 permalink: /tooling-resources/
 ---
 
-# Tooling and resource overview
+# Tooling and resources overview
 
-## License and Copyright scanners
+This is an attempt to gather information about useful [tools](/glossary#osc-tool) and resources for use in Open Source Compliance.
 
-* [ORT](https://github.com/oss-review-toolkit/ort) - "A suite of tools to automate software compliance checks"
-* [ScanCode](https://github.com/aboutcode-org/scancode-toolkit/) - "ScanCode detects licenses, copyrights, dependencies by "scanning code" ... to discover and inventory open source and third-party packages used in your code."
-* [Scarfer](https://github.com/hesa/scarfer) - "Source Code scan report file reporter"
+## Identify License and Copyright
+
+* [ORT](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks
+* [ScanCode](https://github.com/aboutcode-org/scancode-toolkit/) - ScanCode detects licenses, copyrights, dependencies by "scanning code" 
+* [Scarfer](https://github.com/hesa/scarfer) - Source Code scan report file reporter
 
 ## License databases
 
-* [FOSS Licenses](https://github.com/hesa/foss-licenses) - "License meta data: data and python module/cli"
+* [FOSS Licenses](https://github.com/hesa/foss-licenses) - License meta data: data and python module/cli
 
 ## License compatibility
 
-* [flict](https://github.com/vinland-technology/flict) -  "free and open source software license compatibility tool"
-* [FOSS Licenses](https://github.com/hesa/foss-licenses) - "License meta data: data and python module/cli"
+* [flict](https://github.com/vinland-technology/flict) -  free and open source software license compatibility tool
+* [FOSS Licenses](https://github.com/hesa/foss-licenses) - License meta data: data and python module/cli
 * [Licomp toolkit](https://github.com/hesa/licomp-toolkit) - 
 * [lookup-license](https://github.com/hesa/lookup-license/) - Python tool to identify license from license text 
 
