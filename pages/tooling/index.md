@@ -6,7 +6,7 @@ permalink: /tooling-resources/
 
 # Tooling and resources overview
 
-This is an attempt to gather information about useful [tools](/glossary#osc-tool) and resources for use in Open Source Compliance.
+This is an attempt to gather information about useful [tools](/glossary#osc-tool) and [resources](/glossary#osc-resources) for use in Open Source Compliance.
 
 ## Identify License and Copyright
 
