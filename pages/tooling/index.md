@@ -10,6 +10,7 @@ This is an attempt to gather information about useful [tools](/glossary#osc-tool
 
 ## Identify License and Copyright
 
+* [fossology](https://www.fossology.org/) - FOSSology is a open source license compliance software system and toolkit
 * [ORT](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks
 * [ScanCode](https://github.com/aboutcode-org/scancode-toolkit/) - ScanCode detects licenses, copyrights, dependencies by "scanning code" 
 * [Scarfer](https://github.com/hesa/scarfer) - Source Code scan report file reporter
