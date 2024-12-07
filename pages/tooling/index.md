@@ -17,7 +17,8 @@ This is an attempt to gather information about useful [tools](/glossary#osc-tool
 ## License databases
 
 * [FOSS Licenses](https://github.com/hesa/foss-licenses) - License meta data: data and python module/cli
-* [https://scancode-licensedb.aboutcode.org/](https://scancode-licensedb.aboutcode.org/) - A free and open database of all the licenses, in particular all the open source software licenses
+* [scancode-licensedb](https://scancode-licensedb.aboutcode.org/) - A free and open database of all the licenses, in particular all the open source software licenses
+* [LDBcollector](https://github.com/maxhbr/LDBcollector) - A small application which needs a better name and collects oss-license metadata and combines it
 
 ## License compatibility
 
