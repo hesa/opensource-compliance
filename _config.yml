@@ -4,4 +4,4 @@ description: All about Open Source Compliance
 theme: jekyll-theme-cayman
 github:
   is_project_page: false
-include: ['pages', 'pages/tooling' ] 
+include: ['pages', 'pages/tooling' 'pages/guides' ] 
