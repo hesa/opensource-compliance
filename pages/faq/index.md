@@ -14,7 +14,3 @@ permalink: /faq/
 
 # Open Source Compliance links
 
-[ [Start](/) | [FAQ](/faq) | [Guides](/guides) ]
-
-
-

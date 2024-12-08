@@ -39,6 +39,3 @@ This is an attempt to gather information about useful [tools](/glossary#osc-tool
 * Open Source Software Data Analytics Lab@PKU-SEI's [license matrix](https://github.com/osslab-pku/RecLicense/blob/master/knowledge_base/files%20for%20program%20input/compatibility_63.csv), part of [RecLicense](https://github.com/osslab-pku/RecLicense). The matrix contains data with compatibility status between two licenses.
 
 
-# Open Source Compliance links
-
-[ [Start](/) | [FAQ](/faq) | [Guides](/guides) ]

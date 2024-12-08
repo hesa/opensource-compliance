@@ -14,5 +14,4 @@ permalink: /guides/
 
 # Open Source Compliance links
 
-[ [Start](/) | [FAQ](/faq) | [Guides](/guides) ]
 
