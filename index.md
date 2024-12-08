@@ -4,7 +4,7 @@ title: Open Source Compliance
 
 # About
 
-.. simply trying to provide useful information about Open Source compliance. Weäve only just begun.
+.. simply trying to provide useful information about Open Source compliance. We've only just begun.
 
 # Our resources
 
