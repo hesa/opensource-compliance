@@ -8,25 +8,28 @@ permalink: /faq/
 
 ## License and Copyright scanners
 
-### I 
+### Why is this weird license in my code scanning report?
+
+TODO
 
 ## License databases
 
 ### I have a license name which is not recognised by my tooling
 
-More and more often [SPDX identifiers](https://spdx.org/licenses) are used. Using these identifiers we can uniqely identify a license.
-
-However when we look at the various ecosystems (maven, debian, pypi) we can see a lot of oddly named licenses, e.g. `GNU General Public License v2 (GPLv2)`
+Nowadays [SPDX identifiers](https://spdx.org/licenses), uniqely identifying a icense, are used more and more and this problem is decreasing. However when we look at the various ecosystems (maven, debian, pypi) we can see a lot of oddly named licenses, e.g. `GNU General Public License v2 (GPLv2)`
 
 If you want to translate (normalize) a license name to a unique and known identifier you can use [FOSS Licenses](https://github.com/hesa/foss-licenses).
 
 To use the Python command line program or the Python module, install foss-licenses: `pip install foss-flame`.
+
+***Using flame*** (the foss-licenses command line program)
 
 To normalize `GNU General Public License v2 (GPLv2)` with the command line program:
 ```
 $ flame license "GNU General Public License v2 (GPLv2)"
 GPL-2.0-only
 ```
+***Using flame *** (the foss-licenses Python module)
 
 To normalize the license using the Python module
 ```
@@ -53,6 +56,7 @@ Another thing to keep in mind is which license is inbound and which is outbound.
 So, how do we check if we can use a component under MIT in our software which we want to release under GPL-2.0-or-later?
 
 ***Using flict***
+
 First of all, install [flict](https://github.com/vinland-technology/flict).
 
 ```
@@ -64,6 +68,7 @@ Yes
 
 
 ***Using licomp-toolkit***
+
 First of all, install [Licomp toolkit](https://github.com/hesa/licomp-toolkit).
 
 Let's assume you:
