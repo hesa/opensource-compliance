@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Open Source Compliance - Tooling
+title: Open Source Compliance - Glossary
 permalink: /glossary/
 ---
 
@@ -39,6 +39,8 @@ Examples:
 
 * Open Source Software Data Analytics Lab@PKU-SEI's [license matrix](https://github.com/osslab-pku/RecLicense/blob/master/knowledge_base/files%20for%20program%20input/compatibility_63.csv), part of [RecLicense](https://github.com/osslab-pku/RecLicense). The matrix contains data with compatibility status between two licenses.
 
+More resources can be found here: <a href="/tooling-resources/">Tooling and resources</a>
+
 <a id='osc-t'></a>
 ## T
 
@@ -51,6 +53,7 @@ A software solving a specific compliance problem. The software can be in differe
 
 * [flict](https://github.com/vinland-technology/flict) -  Flict checks compatibility between licenses and also for projects.
 
+More tools can be found here: <a href="/tooling-resources/">Tooling and resources</a>
 
 
 
