@@ -6,8 +6,24 @@ permalink: /glossary/
 
 # Table of content
 
+* [C](#osc-c)
 * [R](#osc-r)
 * [T](#osc-t)
+
+<a id='osc-c'></a>
+## C
+
+### Compatibility (License compatibility)
+
+License A is compatible with license B if the terms of the licenses do not conflict.
+
+In practice you typically end up in a situation like this:
+* You have a program, P, that you would like to distribute under the Apache-2.0 license, i.e. outbound license is Apache-2.0
+* Your program uses the library M, which is licensed under MIT, i.e. MIT is the inbound license
+
+This means you will be asking the question: ***Can I use component M in my program P?***
+
+This question can be answered by using Open Source Compliance <a href="#osc-resources">resources</a> and <a href="#osc-tools">tools</a>. 
 
 <a id='osc-r'></a>
 ## R
@@ -15,7 +31,7 @@ permalink: /glossary/
 <a id='osc-resources'></a>
 ### Resource (Open Source Compliance resource)
 
-A resource with data that can be used to solve specifiec compliance problem. The resource can be in any form, including web site, JSON file or a FAQ.
+A resource with data that can be used to solve specific compliance problem. The resource can be in different forms, including web site, JSON file or a FAQ.
 
 Examples:
 
@@ -29,11 +45,12 @@ Examples:
 <a id='osc-tool'></a>
 ### Tools (Open Source Compliance tool)
 
-A software solving a specific compliance problem. The software can be in any form, including webui, command line program and module/library.
+A software solving a specific compliance problem. The software can be in different forms, including web ui, command line program and module/library.
 
 * [ScanCode](https://github.com/aboutcode-org/scancode-toolkit/) - ScanCode detects licenses, copyrights, dependencies by "scanning code"
 
 * [flict](https://github.com/vinland-technology/flict) -  Flict checks compatibility between licenses and also for projects.
+
 
 
 
