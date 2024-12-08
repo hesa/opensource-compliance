@@ -12,5 +12,3 @@ permalink: /faq/
 
 ## License compatibility
 
-# Open Source Compliance links
-
