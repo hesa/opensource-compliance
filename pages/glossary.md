@@ -4,9 +4,16 @@ title: Open Source Compliance - Glossary
 permalink: /glossary/
 ---
 
-# Table of content
 
+# Existing glossaries
+
+* [TheFLOSSary](https://www.creative-destruction.org/project/theflossary/) - the repo is not public anymore. Here is a fork [TheFLOSSary](https://github.com/hesa/TheFLOSSary)
+
+# Our own glossary
+
+Table of content
 * [C](#osc-c)
+* [L](#osc-l)
 * [R](#osc-r)
 * [T](#osc-t)
 
