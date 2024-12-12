@@ -29,7 +29,8 @@ To normalize `GNU General Public License v2 (GPLv2)` with the command line progr
 $ flame license "GNU General Public License v2 (GPLv2)"
 GPL-2.0-only
 ```
-***Using flame *** (the foss-licenses Python module)
+
+***Using flame*** (the foss-licenses Python module)
 
 To normalize the license using the Python module
 ```
