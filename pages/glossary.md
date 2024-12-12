@@ -56,6 +56,8 @@ More resources can be found here: <a href="/tooling-resources/">Tooling and reso
 
 A software solving a specific compliance problem. The software can be in different forms, including web ui, command line program and module/library.
 
+Examples:
+
 * [ScanCode](https://github.com/aboutcode-org/scancode-toolkit/) - ScanCode detects licenses, copyrights, dependencies by "scanning code"
 
 * [flict](https://github.com/vinland-technology/flict) -  Flict checks compatibility between licenses and also for projects.
