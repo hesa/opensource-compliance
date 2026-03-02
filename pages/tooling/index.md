@@ -4,6 +4,8 @@ title: Open Source Compliance - Tooling and resources
 permalink: /tooling-resources/
 ---
 
+***We have moved to: [Software Compliance .org](https://software-compliance.org/)***
+
 # Tooling and resources overview
 
 This is an attempt to gather information about useful Open Source Compliance [tools](/glossary#osc-tool) and [resources](/glossary#osc-resources).
