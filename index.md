@@ -2,6 +2,8 @@
 title: Open Source Compliance
 ---
 
+***We have moved to: [Software Compliance .org](https://software-compliance.org/)***
+
 # About
 
 There are great tools and resources out there. We are not trying to rewrite them, we are aiming at compiling a list of the best tools and resources and write some of the missing ourselves.

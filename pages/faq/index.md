@@ -4,6 +4,8 @@ title: Open Source Compliance - FAQ
 permalink: /faq/
 ---
 
+***We have moved to: [Software Compliance .org](https://software-compliance.org/)***
+
 # FAQ
 
 ## License and Copyright scanners
@@ -25,6 +27,7 @@ To use the Python command line program or the Python module, install foss-licens
 ***Using flame*** (the foss-licenses command line program)
 
 To normalize `GNU General Public License v2 (GPLv2)` with the command line program:
+
 ```
 $ flame license "GNU General Public License v2 (GPLv2)"
 GPL-2.0-only
@@ -33,6 +36,7 @@ GPL-2.0-only
 ***Using flame*** (the foss-licenses Python module)
 
 To normalize the license using the Python module
+
 ```
 >>> from flame.license_db import FossLicenses
 >>> fl = FossLicenses()

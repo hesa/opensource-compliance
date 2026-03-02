@@ -4,6 +4,7 @@ title: Open Source Compliance - Glossary
 permalink: /glossary/
 ---
 
+***We have moved to: [Software Compliance .org](https://software-compliance.org/)***
 
 # Existing glossaries
 
